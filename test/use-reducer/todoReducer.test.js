@@ -1,4 +1,4 @@
-import { todoReducer } from "../src/use-reducer/todoReducer";
+import { todoReducer } from "../../src/use-reducer/todoReducer";
 
 describe("Testing TodoReducer", () => {
   const initialState = [
